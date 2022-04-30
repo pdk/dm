@@ -1,2 +1,3 @@
-# datetime
-parse dates
+# dm - date math
+
+Do simple date math with a command.
